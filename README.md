@@ -14,7 +14,7 @@
 
 ## Configuration
 
-- **ref.txt:** You need to input your refer code
+- **ref_code.txt:** You need to input your refer code
   ```bash
     yourrefcode
   ```
