@@ -18,6 +18,12 @@
   ```bash
     yourrefcode
   ```
+- **proxy.txt:** You will find the file `proxy.txt` inside the project directory. Make sure `proxy.txt` contains data that matches the format expected by the script. Here are examples of file formats:
+  ```bash
+    ip:port # Default Protcol HTTP.
+    protocol://ip:port
+    protocol://user:pass@ip:port
+  ```
 
   ## Run
 
